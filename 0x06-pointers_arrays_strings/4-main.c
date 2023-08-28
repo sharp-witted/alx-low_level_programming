@@ -1,4 +1,3 @@
-vi 4-main.c
 #include "main.h"
 #include <stdio.h>
 
